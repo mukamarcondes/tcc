@@ -1,0 +1,25 @@
+.Subtopo{
+    flex-direction: row;
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+}
+
+.botão3{
+    background-color: #23AFFF;
+    border-color: transparent;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+    margin-left: 8%;
+    margin-right: 3%;
+}
+.botão4{
+    background-color: #23AFFF;
+    border-color: transparent;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+}
