@@ -1,0 +1,32 @@
+.topo{
+    flex-direction: row;
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+}
+
+.botão1{
+    background-color: transparent;
+    border-color: transparent;
+    color: gray;
+    font-size: 20px;
+    margin-left: 60%;
+}
+.botão2{
+    color: #23AFFF;
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+}
+.botão3{
+    color: #FFFF;
+    background-color: #23AFFF;
+    border-color: transparent;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+}

@@ -1,0 +1,6 @@
+.Subtopo{
+    flex-direction: row;
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+}

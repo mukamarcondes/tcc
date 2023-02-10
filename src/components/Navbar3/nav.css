@@ -1,0 +1,23 @@
+.topo{
+    flex-direction: row;
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+}
+
+.botão1{
+    background-color: transparent;
+    border-color: transparent;
+    color: #04a3ff;
+    font-size: 20px;
+    margin-left: 70%;
+    margin-right: 3%;
+}
+.botão2{
+    background-color: #23AFFF;
+    border-color: transparent;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 140px;
+    height: 40px;
+}
